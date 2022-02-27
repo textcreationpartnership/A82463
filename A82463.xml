@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for settling the militia for the City of London, and liberties thereof. Monday, March 12. 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, clerk of the Parliament.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82463</idno>
+            <idno type="STC">Wing E1126</idno>
+            <idno type="STC">Thomason E1074_36</idno>
+            <idno type="STC">ESTC R208409</idno>
+            <idno type="EEBO-CITATION">99867364</idno>
+            <idno type="PROQUEST">99867364</idno>
+            <idno type="VID">119671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119671)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for settling the militia for the City of London, and liberties thereof. Monday, March 12. 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, clerk of the Parliament.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Streater, and John Macock, printers to the Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title ornament; some text in black letter.</note>
+                  <note>Annotation on Thomason copy: "March. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  Defenses --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119671:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>AN ACT For the Settling the MILITIA For the City of LONDON, and <hi>Liberties</hi> thereof.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Monday, March 12. 1659.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament,</hi> That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>THOMAS S<hi rend="sup">t</hi>. NICHOLAS,</hi> Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:119671:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="3" facs="tcp:119671:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>AN ACT For the Setling the MILITIA For the City of LONDON, and <hi>Liberties</hi> thereof.</head>
+            <p>THe Parliament taking into Serious Conſideration the preſent State and Condition of this Common-Wealth, and particularly of the City of <hi>London,</hi> Do Enact and Ordain, And be it Enacted and Ordained by Authority of the ſame, That <hi>Thomas Aleyn</hi> Lord Mayor of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the Lord Mayor and Sheriffes of the ſaid City for the time being, <hi>Thomas Atkin, Thomas Foot, John Fowke, Thomas Viner,</hi> Major Gene<g ref="char:EOLhyphen"/>ral Alderman <hi>Richard Browne, William Thomp<g ref="char:EOLhyphen"/>ſon, John Robinſon, Anthony Bateman, John Law<g ref="char:EOLhyphen"/>rence, Richard King, William Bolton</hi> and <hi>William Wale</hi> Aldermen, Col. <hi>Lawrence Bromfield, Rich<g ref="char:EOLhyphen"/>ard Ford,</hi> Major <hi>Thomas Chamberlyn, William Bateman</hi> Eſquire, <hi>William Vincent, John Jolly</hi> Eſquires, Major <hi>John Taylor, William Antrobus</hi> Eſquire, <hi>Thomas Steane, John Winne, Theophilus Biddulph</hi> Eſquires, Captain <hi>Edward Storey,</hi> Deputy <hi>Abraham Johnſon, John Saunders, Thomas Bludworth</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Maximillian Beard</hi> 
+               <abbr>Eſq</abbr> Major <hi>Thomas Cox,</hi> Major <hi>William Earely,</hi> Ma<g ref="char:EOLhyphen"/>jor <hi>John Alſopp,</hi> Deputy <hi>Thomas Lenthall,</hi> Cownel <hi>Thomas Gower, Peter Mills,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Nicholas Penninge,</hi> Captain <hi>Edward Cleg<g ref="char:EOLhyphen"/>gat,</hi> Sir <hi>Thomas Soame, Jſaac Pennington</hi> 
+               <abbr>Eſq</abbr>
+               <pb n="4" facs="tcp:119671:3"/>
+               <!-- PDF PAGE 21 -->
+               <hi>Samuel V<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſall</hi> 
+               <abbr>Eſq</abbr>, Major General <hi>Philip Skip<g ref="char:EOLhyphen"/>pon, Henry Aſhurſt, Chriſtopher Pack, John Dethick, Richard Chiverton, John Frederick, Tempeſt Mil<g ref="char:EOLhyphen"/>ner, William Love,</hi> and <hi>Edward Backwell,</hi> Alder<g ref="char:EOLhyphen"/>men of the ſaid City, <hi>Lawrence Blomley, James Noell,</hi> Deputy <hi>Richard Cliffe, William Lluelling, John <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Richard Rives,</hi> Leiutenant Colo<g ref="char:EOLhyphen"/>nel <hi>Ja<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kſon, Thomas Morris, John Bathurſt, John Cock, William Allet, Tobell Aylmer,</hi> Depu<g ref="char:EOLhyphen"/>ty <hi>Thomas Myms,</hi> and <hi>James Medlicot,</hi> or any nine or more of them, and no other Perſon or <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſons whatſoever, be and are hereby E<gap reason="illegible" extent="6+ letters">
+                  <desc>••••••…</desc>
+               </gap>ted and Appointed Commiſsioners for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the City of <hi>London,</hi> and Liberties <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall have power, and are hereby <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Aſſemble and Call together all <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> perſon and Perſons, within the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of <hi>London,</hi> and Liberties thereof, that <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Convenient for the Wars, and them to Train, Exerciſe, and put in Readineſs: And them (both Horſe and Foot) after their A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilties and Faculties, well and ſufficiently from t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to time to cauſe to be Arrayed and Weapon<g ref="char:EOLhyphen"/>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to take the Muſters of them in Places m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt fit for that purpoſe; And to Lead, Conduct, and Imploy the Perſons aforeſaid, Arrayed and Weaponed, for the Suppreſsion of all Rebellions, Inſurrections, and Invaſions, that may happen within the ſaid City and Liberties thereof, and to fight with, kill &amp; ſtay ſuch Enemies and Rebels as they ſhall find in Arms againſt this Common<g ref="char:EOLhyphen"/>wealth, and to diſarm al known Papiſts, and dan<g ref="char:EOLhyphen"/>gerous and ſeditious perſons, and all ſuch as ſhall raiſe or endeavour to raiſe any Tumults or In<g ref="char:EOLhyphen"/>ſurrections, &amp; to put the Arms of all ſuch perſons, into the hands of ſuch well-affected perſons as
+<pb n="5" facs="tcp:119671:3"/>
+               <!-- PDF PAGE 21 -->they, or any nine or more of them ſhall think fit to ſerve with the ſame, under ſuch Officers to be appointed by the ſaid Commiſſoners as is hereafter mentioned, or otherwiſe to ſecure the ſame for the uſe of the Commonwealth.</p>
+            <p>And <hi>Be it further Enacted,</hi> That the ſaid Of<g ref="char:EOLhyphen"/>ficers may likewiſe lead, conduct, and emp<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy the perſons aforeſaid, Arrayed and Weaponed, as well within the ſaid City, as within any other parts of this Commonwealth, for the ſup<g ref="char:EOLhyphen"/>preſſion of all Rebellions, Inſurrections, and Invaſions that may happen, according as they ſhall from time to time receive Directions from the Parliament, or Council of State by Authority of Parliament.</p>
+            <p>Provided, That no Citizen of the City of <hi>London,</hi> or any of the Forces of the ſaid City and Liberties thereof, ſhall be drawn forth, or compelled to go out of the ſaid City or Liberties thereof, for Military ſervice, without his or their free Conſent. And that the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any nine or more of them as afore<g ref="char:EOLhyphen"/>ſaid, ſhall have power, and are hereby authori<g ref="char:EOLhyphen"/>zed to Conſtitute, make and Commiſſionate Co<g ref="char:EOLhyphen"/>lonels, Captains, and other Officers both of Horſe and Foot; and ſhall have power to re<g ref="char:EOLhyphen"/>move and diſplace Colonels, Captains, and other Officers from time to time, as they, or any nine or more of them as aforeſaid, ſee cauſe and think fit. And for furniſhing Drums, Colours, Trophies, Ammunition, and other Emergencies, the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, or any nine or more of them, ſhall and have hereby power to lay ſitting and rea<g ref="char:EOLhyphen"/>ſonable Rates upon the ſaid City and Liber<g ref="char:EOLhyphen"/>ties
+<pb n="6" facs="tcp:119671:4"/>
+               <!-- PDF PAGE 22 -->thereof, not exceeding in one whole year the proportion of two Moneths Aſſeſsment upon the ſaid City and Liberties, after the rate of <hi>35000 l. per Menſem,</hi> upon <hi>England,</hi> charged for maintenance of the Armies and Navies of this Commonwealth. Which Moneys are to be Aſ<g ref="char:EOLhyphen"/>ſeſſed, Collected and paid as the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, or any nine or more of them, ſhall from time to time direct and appoint, under the pe<g ref="char:EOLhyphen"/>nalties, and by the wayes and means preſcribed in the Act for the preſent ſix Moneths Aſſeſs<g ref="char:EOLhyphen"/>ment, from the <hi>25th</hi> of <hi>December</hi> laſt.</p>
+            <p>And Be it further Enacted, That if any Souldier of the Militia-Forces of the ſaid City ſhall at any time hereafter refuſe or neglect to appear to his Colours, upon Summons given by ſound of Trumpet, beat of Drum, or other<g ref="char:EOLhyphen"/>wiſe by Order from the ſaid Commiſſioners of the Militia, or ſhall depart from his Colours without leave of his Captain or other Chief Officer; it ſhall be lawful for the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, or any nine of them, to Impoſe a penal<g ref="char:EOLhyphen"/>ty upon every defaulter as they ſhall ſee fit, not exceeding xx s. for a Horſeman, and x s. for a Footman for every offence, to be levied by ſuch perſon and perſons as the ſaid Commiſſioners, or any nine or more of them, ſhall appoint, by diſtreſſe and ſale of the Goods of ſuch perſons making default as aforeſaid: The ſaid penal<g ref="char:EOLhyphen"/>ties to be Imployed for carrying on of the ſaid Service.</p>
+            <p>And, Be it further Enacted, That the ſaid Commiſſioners, or any nine, or more of them, ſhall, and may ſummon all and every Treaſu<g ref="char:EOLhyphen"/>rer and Treaſurers of any former Committee,
+<pb n="7" facs="tcp:119671:4"/>
+               <!-- PDF PAGE 22 -->or Commiſſioners for the Militia, within the City and Liberties aforeſaid, or any other per<g ref="char:EOLhyphen"/>ſon or perſons, who, by vertue of any Authori<g ref="char:EOLhyphen"/>ty of Parliament, or otherwiſe, are poſſeſt of any ſum or ſums of Money, or Arms, in rela<g ref="char:EOLhyphen"/>tion to the ſaid Militia; and alſo the late Offi<g ref="char:EOLhyphen"/>cers of the Militia-Forces of the ſaid City, who received Drums and Trophyes for that ſer<g ref="char:EOLhyphen"/>vice, and to require them, and every of them, forthwith to pay every ſuch ſum and ſums of Money, and deliver ſuch Arms, Drums, and Trophyes, remaining in their hands as afore<g ref="char:EOLhyphen"/>ſaid, to ſuch perſon and perſons as the ſaid Commiſſioners, appointed by this Act, or any nine or more of them, ſhall appoint to be imploy<g ref="char:EOLhyphen"/>ed for carrying on of the ſaid Service. And in Caſe of non-payment and delivery of ſuch mo<g ref="char:EOLhyphen"/>ney, Arms, Drums, and Trophyes, to Levy the ſame money, or value of the ſaid Arms, Drums, and Trophyes, by Impriſonment of the perſon, or by diſtreſſe and ſale of his goods, rendring the over-plus to the party diſtray<g ref="char:EOLhyphen"/>ned.</p>
+            <p>And alſo it is Enacted, That no perſon or perſons, other then the perſons aforenamed, do or ſhall from henceforth Act, or exerciſe any power or Authority, as Members of the Mili<g ref="char:EOLhyphen"/>tia for the City of <hi>London,</hi> by force, or colour of any former Order, Ordinance, Act, or Autho<g ref="char:EOLhyphen"/>rity of Parliament: and that all, and every perſon, and perſons, who ſhall act, or do any act or thing whatſoever, by vertue of this Act, concerning the ſaid Militia, ſhall be ſaved harmleſſe, and Indempnified for and concer<g ref="char:EOLhyphen"/>ning the ſame, by Authority of Parliament.</p>
+            <pb n="8" facs="tcp:119671:5"/>
+            <!-- PDF PAGE 23 -->
+            <p>And laſtly, It is hereby Declared and En<g ref="char:EOLhyphen"/>acted, That this preſent Act, or any thing therein, or thereby Declared or Enacted, ſhall not in any wiſe diminiſh or prejudice the juſt and antient Rights of the City of <hi>London,</hi> tou<g ref="char:EOLhyphen"/>ching the Militia of the ſaid City.</p>
+            <p>Provided, That no perſon ſhall be charged with Horſe and Arms, unleſſe ſuch perſon have the yearly Revenue of <hi>500 l. per annum,</hi> or have an Eſtate of <hi>6000 l.</hi> in Goods, or Money, or other Eſtate equivalent thereunto; And ſo proportionably as the Commiſſioners in their Diſcretions ſhall think reaſonable. And the ſaid Commiſſioners are not to charge any per<g ref="char:EOLhyphen"/>ſon with finding a Foot-Souldier in Arms, that hath not a yearly Revenue of <hi>40 l.</hi> or a perſonal Eſtate of <hi>500 l.</hi> in goods or money, and after the ſaid rate proportionably for a greater or leſſer Eſtate. It ſhall be lawfull for the ſaid Commiſſioners, or any nine, or more of them, to impoſe the finding of a Horſe and Arms, as aforeſaid, by joyning two or three or more perſons together in the Charge, as in their Iudgments ſhall ſeem moſt con<g ref="char:EOLhyphen"/>ducible to the publick Safety. And the ſaid Commiſſioners, or any nine or more of them, are hereby authoriſed to hear and examine Complaints upon Oath, which they have hereby power to adminiſter and redreſſe as they ſhall ſee cauſe.</p>
+            <p>
+               <pb n="9" facs="tcp:119671:5"/>
+               <!-- PDF PAGE 23 -->
+And be it further Enacted, That the ſaid Commiſsioners, or any nine or more of them, ſhall Require and Direct all Perſons ſo char<g ref="char:EOLhyphen"/>ged as aforeſaid with Horſe and Armes, to al<g ref="char:EOLhyphen"/>low two Shillings <hi>per diem</hi> to the Troopers that Serve with their Horſe and Armes, for maintenance of the Man and Horſe, and twelve pence a day to the Foot Souldiers, for ſo many days as they ſhall be abſent from their Dwel<g ref="char:EOLhyphen"/>lings or Callings, by occaſion of Muſter or Exerciſe.</p>
+            <p>And be it further Enacted, That if any Per<g ref="char:EOLhyphen"/>ſon or Perſons ſo to be Aſſeſſed or Charged by the ſaid Commiſsioners, ſhall refuſe or neglect, by the time to be Appointed by the ſaid Commiſsi<g ref="char:EOLhyphen"/>oners, to provide and funiſh ſuch ſufficient Horſe or Horſes, Arms, and other Furniture, or to pay ſuch Sum or Sums of Money towards the Providing and Furniſhing as aforeſaid, That then it ſhall and may be Lawful to and for the ſaid Commiſsioners, or any nine or more of them, to inflict a penalty upon ſuch Perſon or Perſons, not exceeding twenty pounds; and alſo by War<g ref="char:EOLhyphen"/>rant under their Hands and Seals, to Commit ſuch perſon or perſons ſo refuſing or neglecting to Priſon, there to remain without Bayle or Main-prize till he or they ſhall Conform there<g ref="char:EOLhyphen"/>unto, and pay ſuch penalty ſo inflicted as afore<g ref="char:EOLhyphen"/>ſaid: Or elſe by like Warrant to Levy ſuch Sum or Sums of Money to the value of ſuch Horſe, Armes and Furniture, and ſuch penalty inflicted, by Diſtreſs and Sale of the Goods of the perſon or perſons ſo neglecting or refuſing, rendring the overplus to the Party ſo Diſtrain<g ref="char:EOLhyphen"/>ed; all neceſſary Charges in Levying thereof being firſt deducted.</p>
+            <p>
+               <pb n="10" facs="tcp:119671:6"/>
+               <!-- PDF PAGE 24 -->
+Provided alſo, That if any perſon or perſons ſhall be Aſſeſſed to find Horſe and Armes in the County, City or place where his chief Manſion houſe is for his whele Eſtate, That then upon a Certificate or Certificates that ſuch perſon or perſons is &amp; are ſo Aſſeſſed for his whole Eſtate in the ſaid County, City or place, ſuch perſon or perſons ſhall be diſcharged of any Aſſeſſment for the ſame in any other County, City or place where any other part of his Eſtate ſhall lye.</p>
+            <p>Provided always, That no perſon ſhall be per<g ref="char:EOLhyphen"/>mitted to Ride a Horſe, or Carry Armes in this Service, who hath beén in Armes againſt the Parliament, or voluntarily aiding or aſſiſting therein, and hath not ſince manifeſted his good affection to the Parliament.</p>
+            <p>Provided alſo, That no perſon ſhall be Im<g ref="char:EOLhyphen"/>ployed in this Service within this Common<g ref="char:EOLhyphen"/>wealth as a Commiſsion-Officer of the Militia Raiſed or intended to be Raiſed, but ſuch or the Sons of ſuch who have Aſſiſted and Adhered to the Parliament and their Cauſe, unleſs ſuch Sons have ſhewed their Diſaffection to the Par<g ref="char:EOLhyphen"/>liaments Cauſe. Provided alſo, That this Act ſhall continue for one year, unleſs the Par<g ref="char:EOLhyphen"/>liament take other Order.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Monday, March 12. 1659.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by the Parliament,</hi> That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>THOMAS S<hi rend="sup">t</hi> NICHOLAS,</hi> Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament, 1659.</p>
+            <pb facs="tcp:119671:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </back>
+   </text>
+</TEI>
